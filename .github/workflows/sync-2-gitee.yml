@@ -1,8 +1,7 @@
 name: sync-2-gitee
-
 on:
   push:
-    branches: [main]
+    branches: [DISABLE]
 
 jobs:
   sync-2-gitee:
