@@ -35,3 +35,8 @@ p > code, li > code {
     background: #eceeef;
     color: var(--text-color);
 }
+
+/* 去除帖子最下面的虚线 */
+.post-footer hr {
+    display: none;
+}
