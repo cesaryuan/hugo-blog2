@@ -28,3 +28,10 @@ pre {
 .highlight {
     background-color: #00000000;
 }
+
+p > code, li > code {
+    border-radius: 3px;
+    padding: 1px 6px;
+    background: #eceeef;
+    color: var(--text-color);
+}
