@@ -14,10 +14,12 @@ jobs:
         with:
           extended: true
 
+      - name: Build
+        run: hugo --minify
+        
       - name: Publish
         uses: cloudflare/wrangler-action@2.0.0
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
-          preCommands: hugo --minify
           command: pages publish public --project-name=hugo-blog-next-theme
