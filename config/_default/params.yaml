@@ -36,7 +36,7 @@ keywords: 博客, 程序员, 土木, 机器学习, C#, WPF
 # 不同尺寸站点图标
 # Different size of favicon
 favicon:
-  icon: /imgs/icons/favicon.ico
+  icon: /imgs/favicon.ico
   # small: /imgs/icons/favicon_16x16_next.png
   # medium: /imgs/icons/favicon_32_32_next.png
   # appleTouchIcon: /imgs/icons/apple_touch_icon_next.png
