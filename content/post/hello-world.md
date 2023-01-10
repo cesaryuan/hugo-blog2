@@ -1,59 +1,56 @@
 ---
-title: "世界，你好！"
-description: "快速的描述下有关于 Hugo 建站的基本用法。"
+title: "Hello World"
+description: "测试第一篇文章嘿嘿"
+keywords: "hello,world"
 
-lastmod: 2022-06-03T16:43:23+08:00
-date: 2022-06-02T11:52:03+08:00
+date: 2023-01-10T20:16:36+08:00
+lastmod: 2023-01-10T20:16:36+08:00
 
 categories:
- - 博客
+  - 碎碎念
 tags:
- - Hugo
- - 开始
+  - 碎碎念
 
-url: post/hello-world.html
-toc: true
-weight: 2
+# 原文作者
+# Post's origin author name
+#author:
+# 原文链接
+# Post's origin link URL
+#link:
+# 图片链接，用在open graph和twitter卡片上
+# Image source link that will use in open graph and twitter card
+#imgs:
+# 在首页展开内容
+# Expand content on the home page
+#expand: true
+# 外部链接地址，访问时直接跳转
+# It's means that will redirecting to external links
+#extlink:
+# 在当前页面关闭评论功能
+# Disabled comment plugins in this post
+#comment:
+#  enable: false
+# 关闭文章目录功能
+# Disable table of content
+#toc: false
+# 绝对访问路径
+# Absolute link for visit
+#url: "hello-world.html"
+# 开启文章置顶，数字越小越靠前
+# Sticky post set-top in home page and the smaller nubmer will more forward.
+#weight: 1
+# 开启数学公式渲染，可选值： mathjax, katex
+# Support Math Formulas render, options: mathjax, katex
+#math: mathjax
+# 开启各种图渲染，如流程图、时序图、类图等
+# Enable chart render, such as: flow, sequence, classes etc
+#mermaid: true
 ---
 
-> “使用 `weight` 关键字置顶文章。”
+大家好呀，这是我的第一篇帖子。
 
-[Hugo](https://gohugo.io/) 是现今世界上最快的网站建设框架，也是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让建设网站再次变得有趣起来。
+想搞一个博客好久了，但是一直没有执行下去，有很多原因，比如找不到好看的主题、没有理清和笔记软件之间的关系、如何和笔记内容进行同步。
+
+现在想了想，最重要的应该是先开始记录，然后再慢慢完善和思考这些问题，所以就开始写啦~
 
 <!--more-->
-
-## 快速开始
-
-### 发表新文章
-
-```shell
-$ hugo new hello-world.md
-```
-
-更多信息：[内容格式](https://gohugo.io/content-management/formats/)
-
-### 启动服务
-
-```shell
-$ hugo server
-```
-
-更多信息：[Hugo 服务命令行](https://gohugo.io/commands/hugo_server/)
-
-### 生成静态文件
-
-```shell
-$ hugo
-```
-
-更多信息：[Hugo 建站](https://gohugo.io/commands/hugo/)
-
-### 部署到服务器
-
-```language
-$ hugo deploy
-```
-
-更多信息：[Hugo 发布](https://gohugo.io/commands/hugo_deploy/)
-
-祝你好运，相信你会喜欢上 Hugo 建站的旅程！
