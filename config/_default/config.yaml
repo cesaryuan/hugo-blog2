@@ -15,7 +15,7 @@
 baseURL: /
 # 站点标题
 # Website title
-title: Hugo NexT
+title: 记录凯撒源的日常
 # 主题名称
 # Theme name
 theme: hugo-theme-next
@@ -59,7 +59,7 @@ markup:
     lineNumbersInTable: false
     noClasses: true
     noHl: false
-    style: monokai
+    style: friendly
     tabWidth: 2
   tableOfContents:
     # 开始/结束标题级别：1-6 (建议从2开始)

@@ -36,8 +36,8 @@ main:
     pageref: /archives
     pre: archive
     weight: 4
-  - identifier: commonweal
-    name: 公益 404
-    url: /404.html
-    pre: heartbeat
-    weight: 5
+  # - identifier: commonweal
+  #   name: 公益 404
+  #   url: /404.html
+  #   pre: heartbeat
+  #   weight: 5
