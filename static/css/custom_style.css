@@ -40,3 +40,48 @@ p > code, li > code {
 .post-footer hr {
     display: none;
 }
+
+
+
+/* 优化列表和其字列表间距 */
+:root {
+    --space: 0.125em
+}
+
+li > * {
+    padding-top: calc(var(--space) - 0.05em);
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+
+li > p:first-child {
+    padding-top: 0;
+}
+
+li + li {
+    margin-top: var(--space)
+}
+
+/* 为 nested 内容添加竖线 */
+/* li {
+    position: relative;
+}
+
+li:not(:empty)::before {
+    content: "";
+    position: absolute;
+    height: calc(100% - 1.8em + var(--space));
+    border-left: 0.5px solid #d4cccc;
+    top: 1.8rem;
+    left: -15px;
+} */
+
+/* 调整列表块与上下段落之间的间距 */
+ul ul {
+    margin-bottom: 0;
+}
+
+ul {
+    margin-bottom: 10px;
+}
