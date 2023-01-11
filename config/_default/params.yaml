@@ -43,7 +43,7 @@ favicon:
 
 # 自定义 Logo （目前只支持 Mist 页面模式）
 # Custom Logo (Warning: Only support scheme Mist)
-customLogo: /imgs/avatar.png
+customLogo: #/imgs/avatar.png
 
 # 用户自定义文件配置
 # Define custom file paths.
