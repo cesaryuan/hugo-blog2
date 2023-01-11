@@ -43,7 +43,7 @@ favicon:
 
 # 自定义 Logo （目前只支持 Mist 页面模式）
 # Custom Logo (Warning: Only support scheme Mist)
-customLogo: #/imgs/avatar.png
+customLogo: /imgs/avatar.png
 
 # 用户自定义文件配置
 # Define custom file paths.
@@ -777,7 +777,7 @@ analytics:
   #laId: #<anaytics_id> 
   # 百度统计
   # Baidu Analytics
-  #baidu: #<anaytics_id>
+  baidu: 73d0be678df808f1e195a3dcf549a485
   # 谷歌统计
   # Google Analytics
   #google: #<anaytics_id>
