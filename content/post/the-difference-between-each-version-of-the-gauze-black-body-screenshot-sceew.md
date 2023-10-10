@@ -63,7 +63,7 @@ isCJKLanguage: true
     ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101503050.png)
   * gothic-sc
 
-    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101538820.png)
+    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101538262.png)
 * 等宽拉丁
 
   * mono-sc
