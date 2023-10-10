@@ -33,14 +33,15 @@ conda无论是在remove还是install的时候，速度都太慢了，有时候�
 
 ## 使用
 
-- 迁移：
+**迁移：**
 
-  这是经过速度对比之后选择的，这种方式不需要卸载原有的ananconda或者miniconda，只需创建一个`.condarc`​​然后将`env_dirs`​​指向原来conda的env位置即可
+这是经过速度对比之后选择的，这种方式不需要卸载原有的ananconda或者miniconda，只需创建一个`.condarc`​​然后将`env_dirs`​​指向原来conda的env位置即可
 
-  然后在pwsh的profile里面加上`(& env:MAMBA_EXE 'shell' 'hook' -s 'powershell' -p env:MAMBA_ROOT_PREFIX) | Out-String | Invoke-Expression`​​即可
-* 新环境：
+然后在pwsh的profile里面加上`(& env:MAMBA_EXE 'shell' 'hook' -s 'powershell' -p env:MAMBA_ROOT_PREFIX) | Out-String | Invoke-Expression`​​即可
 
-  我选择先安装miniconda3然后再安装micromamba
+**新环境：**
+
+我选择先安装miniconda3然后再安装micromamba
 
 ## 速度对比
 
