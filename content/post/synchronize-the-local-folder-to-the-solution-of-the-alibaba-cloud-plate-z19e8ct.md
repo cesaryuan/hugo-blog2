@@ -64,7 +64,7 @@
 <li>
 <p>在GoodSync中将文件夹同步到webdav</p>
 <p>这里要注意有一个坑是必须关闭图中的选项，不然同步到</p>
-<p><img src="https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310102144093.png" alt="image.png" /></p>
+<p>​<img src="https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310102144093.png" alt="image.png" />​</p>
 </li>
 </ol>
 <p>简单的小分享，大家也可以分享自己的方案</p>
