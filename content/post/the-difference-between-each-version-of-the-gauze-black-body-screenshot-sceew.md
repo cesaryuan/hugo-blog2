@@ -1,0 +1,71 @@
+---
+title: 更纱黑体中各个版本的区别（截图）
+slug: the-difference-between-each-version-of-the-gauze-black-body-screenshot-sceew
+url: >-
+  /post/the-difference-between-each-version-of-the-gauze-black-body-screenshot-sceew.html
+date: '2022-02-03 12:30:31'
+lastmod: '2023-10-10 14:48:05'
+toc: true
+isCJKLanguage: true
+---
+
+众所周知，更纱黑体[Release页面](https://github.com/be5invis/Sarasa-Gothic/releases)下载的字体包[sarasa-gothic-ttf-&lt;version&gt;.7z](https://github.com/be5invis/Sarasa-Gothic/releases/download/v0.35.8/sarasa-gothic-ttf-0.35.8.7z)解压后足足有12G大小，且其中有480个ttf文件，一般人不知道如何选择安装，这里说一下该如何选择。
+
+## 结论
+
+* 用作编程字体
+
+  安装所有以`sarasa-fixed-sc-`开头的字体
+* 用作系统字体
+
+  安装所有以`sarasa-ui-sc-`开头的字体
+
+## 官方说明
+
+* Style dimension
+
+  * Latin/Greek/Cyrillic character set being Inter（拉丁字符集不等宽）
+
+    * Quotes (`“”`) are full width —— **Gothic**
+    * Quotes (`“”`) are narrow —— **UI**
+  * Latin/Greek/Cyrillic character set being Iosevka（拉丁字符集等宽）
+
+    * Em dashes (`——`) are full width —— **Mono**（破折号全宽）
+    * Em dashes (`——`) are half width —— **Term**（破折号半宽）
+    * No ligature, Em dashes (`——`) are half width —— **Fixed**（前面没懂破折号半宽）
+* Orthography dimension
+
+  * `CL`: Classical orthography
+  * `SC`, `TC`, `J`, `K`, `HC`: Regional orthography, following [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) notations. 参见[SourceHanSansReadMe.pdf](assets/SourceHanSansReadMe-20220203163546-dxsv38v.pdf)
+
+> 补充：
+>
+> * 文件中还有一部分ttf文件名中包含slab字样，意思是[拉丁字母带衬线](https://github.com/be5invis/Sarasa-Gothic/issues/159)
+> * ttc == ttf collection（每个字重一个文件，每个文件里包含多种dimension）
+
+## 截图展示
+
+以下截图均基于regular字重
+
+* 非等宽拉丁
+
+  * ui-sc
+
+    ![image.png](assets/image-20220203123529-hkqvoyb.png)
+  * gothic-sc
+
+    ![image.png](assets/image-20220203123621-sa9f3p1.png)
+* 等宽拉丁
+
+  * mono-sc
+
+    ![image.png](assets/image-20220203162315-7lno59x.png)
+  * fixed-sc
+
+    ![image.png](assets/image-20220203123711-p0u69mu.png)
+  * term-sc
+
+    ![image.png](assets/image-20220203123711-p0u69mu.png)
+  * fixed-cl
+
+    ![image.png](assets/image-20220203123834-jctc5g7.png)
