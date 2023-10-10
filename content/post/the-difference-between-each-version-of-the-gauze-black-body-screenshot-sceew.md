@@ -3,7 +3,7 @@ title: 更纱黑体中各个版本的区别（截图）
 slug: the-difference-between-each-version-of-the-gauze-black-body-screenshot-sceew
 url: >-
   /post/the-difference-between-each-version-of-the-gauze-black-body-screenshot-sceew.html
-date: '2022-02-03 12:30:31'
+date: '2023-10-10 15:20:20'
 lastmod: '2023-10-10 14:48:05'
 toc: true
 tags:
@@ -62,18 +62,18 @@ isCJKLanguage: true
     ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101503050.png)
   * gothic-sc
 
-    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101503123.png)
+    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101520155.png)
 * 等宽拉丁
 
   * mono-sc
 
-    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101503890.png)
+    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101520336.png)
   * fixed-sc
 
-    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101503414.png)
+    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101520894.png)
   * term-sc
 
-    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101503414.png)
+    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101520894.png)
   * fixed-cl
 
     ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101503197.png)
