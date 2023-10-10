@@ -6,6 +6,14 @@ url: >-
 date: '2022-02-03 12:30:31'
 lastmod: '2023-10-10 14:48:05'
 toc: true
+tags:
+  - 更纱黑体
+  - 字体包
+  - 编程字体
+  - 系统字体
+categories:
+  - 编程字体
+keywords: 更纱黑体,字体包,编程字体,系统字体
 isCJKLanguage: true
 ---
 
@@ -51,21 +59,21 @@ isCJKLanguage: true
 
   * ui-sc
 
-    ![image.png](assets/image-20220203123529-hkqvoyb.png)
+    ![image.png](http://127.0.0.1:34919/assets/image-20220203123529-hkqvoyb.png)
   * gothic-sc
 
-    ![image.png](assets/image-20220203123621-sa9f3p1.png)
+    ![image.png](http://127.0.0.1:34919/assets/image-20220203123621-sa9f3p1.png)
 * 等宽拉丁
 
   * mono-sc
 
-    ![image.png](assets/image-20220203162315-7lno59x.png)
+    ![image.png](http://127.0.0.1:34919/assets/image-20220203162315-7lno59x.png)
   * fixed-sc
 
-    ![image.png](assets/image-20220203123711-p0u69mu.png)
+    ![image.png](http://127.0.0.1:34919/assets/image-20220203123711-p0u69mu.png)
   * term-sc
 
-    ![image.png](assets/image-20220203123711-p0u69mu.png)
+    ![image.png](http://127.0.0.1:34919/assets/image-20220203123711-p0u69mu.png)
   * fixed-cl
 
-    ![image.png](assets/image-20220203123834-jctc5g7.png)
+    ![image.png](http://127.0.0.1:34919/assets/image-20220203123834-jctc5g7.png)
