@@ -14,6 +14,7 @@ tags:
 categories:
   - 编程字体
 keywords: 更纱黑体,字体包,编程字体,系统字体
+description: 更纱黑体（Sarasa Gothic）是一款开源字体，提供多种字重和风格，适用于编程和系统使用。安装时可以根据需要选择不同的字体文件
 isCJKLanguage: true
 ---
 
@@ -62,12 +63,12 @@ isCJKLanguage: true
     ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101503050.png)
   * gothic-sc
 
-    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101520155.png)
+    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101538820.png)
 * 等宽拉丁
 
   * mono-sc
 
-    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101520336.png)
+    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101538646.png)
   * fixed-sc
 
     ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101520894.png)
