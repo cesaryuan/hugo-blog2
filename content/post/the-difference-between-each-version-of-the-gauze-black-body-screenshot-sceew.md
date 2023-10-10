@@ -59,21 +59,21 @@ isCJKLanguage: true
 
   * ui-sc
 
-    ![image.png](http://127.0.0.1:34919/assets/image-20220203123529-hkqvoyb.png)
+    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101503050.png)
   * gothic-sc
 
-    ![image.png](http://127.0.0.1:34919/assets/image-20220203123621-sa9f3p1.png)
+    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101503123.png)
 * 等宽拉丁
 
   * mono-sc
 
-    ![image.png](http://127.0.0.1:34919/assets/image-20220203162315-7lno59x.png)
+    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101503890.png)
   * fixed-sc
 
-    ![image.png](http://127.0.0.1:34919/assets/image-20220203123711-p0u69mu.png)
+    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101503414.png)
   * term-sc
 
-    ![image.png](http://127.0.0.1:34919/assets/image-20220203123711-p0u69mu.png)
+    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101503414.png)
   * fixed-cl
 
-    ![image.png](http://127.0.0.1:34919/assets/image-20220203123834-jctc5g7.png)
+    ![image.png](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/static/imgs/202310101503197.png)
