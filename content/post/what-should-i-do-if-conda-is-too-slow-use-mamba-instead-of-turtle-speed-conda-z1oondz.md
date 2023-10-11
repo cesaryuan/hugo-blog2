@@ -15,7 +15,7 @@ categories:
   - Coding
 keywords: Python,conda,mamba
 description: >-
-  本文介绍了使用mamba替代conda进行包管理的方法，并分析了mamba相较于conda在速度和内存占用方面的优势。通过对比实验，发现mamba在安装和移除包时具有更快的速度，并且解决依赖关系的效率更高。同时，文章提供了迁移至mamba的步骤和注意事项，以及在新环境中设置mamba的方法。
+  本文介绍了使用mamba来替代conda的过程，mamba是conda的一个重实现版本，通过并行下载和C++实现等优化，大幅提高了安装和删除包的速度。同时作者对比了conda和mamba在安装和删除matplotlib包时的速度，发现mamba要快得多。因此，建议使用mamba来代替conda管理包环境。
 isCJKLanguage: true
 ---
 
@@ -47,7 +47,7 @@ conda无论是在remove还是install的时候，速度都太慢了，有时候�
 
 对比时使用的condarc：
 
-```js
+```yaml
 channels:
   - conda-forge
   - defaults
@@ -57,7 +57,6 @@ envs_dirs:
   - E:\scoop\apps\miniconda3\current\envs
 pkgs_dirs:
   - E:\scoop\apps\miniconda3\current\pkgs
-
 ```
 
 |命令|速度|备注|
