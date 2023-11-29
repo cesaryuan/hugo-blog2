@@ -16,6 +16,8 @@ description: >-
 isCJKLanguage: true
 ---
 
+最近因为一些需求，需要对 V8 引擎进行一些修改，所以研究了一下如何自己编译 V8 引擎，下面是对所搜集到的材料的总结。
+
 ## 先决条件
 
 > 参考：
@@ -231,9 +233,6 @@ Author: [jkummerow@chromium.org](mailto:jkummerow@chromium.org)
 Last update: 2022-04-14
 
 1. Download VSCode.
-
-    1. On Linux, you can use V8’s own tools/dev/update-vscode.sh --auto (both for initial download, and when you get the in-product notification that an update is available). It’ll extract the package to ~/vscode, and it’ll do its best to create convenient $PATH entries and a .desktop file; so on most distros with standard setup you can simply type code . in any directory afterwards to get started, or find it in whatever menu system your desktop environment uses.
-    2. On other platforms, download from [https://code.visualstudio.com/](https://code.visualstudio.com/), and rely on VSCode’s own auto-updater.
 2. In V8, run `python3 tools/dev/update-compile-commands.py`​.  
     This creates the compile_commands.json file that clangd requires for indexing. Re-run this tool every time you pull in (or make) significant changes (in particular: adding, moving, or removing files).
 3. Install extensions:
