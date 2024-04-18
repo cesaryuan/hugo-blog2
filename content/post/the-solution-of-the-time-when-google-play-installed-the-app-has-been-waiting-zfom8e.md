@@ -11,6 +11,9 @@ description: >-
   本文介绍了解决Google
   Play安装APP一直等待中的问题。通过分析下载流程，发现问题根源在于Google国内CDN屏蔽了proxy连接，导致下载失败。提出换节点、关掉梯子、调整规则等多种解决方法，以确保访问成功。
 isCJKLanguage: true
+tags:
+  - Google
+keywords: Google
 ---
 
 # Google Play 安装 APP 时一直等待中的解决办法
