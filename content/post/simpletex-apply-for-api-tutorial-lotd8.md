@@ -12,15 +12,15 @@ isCJKLanguage: true
 
 1. 打开[SimpleTex账户注册](https://simpletex.net/user/register)并注册账户
 
-    ​![image](assets/image-20240429194702-nivhlr6.png)​
+    ​![image](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/images/image-20240429194702-nivhlr6.png)​
 2. 进入[SimpleTex用户中心](https://simpletex.net/user/center)申请开通API开放平台
 
-    ​![image](assets/image-20240429194845-65ac3df.png)​
+    ​![image](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/images/image-20240429194845-65ac3df.png)​
 3. 创建新开放平台应用，名字随便起
 
-    ​![image](assets/image-20240429194931-y8v92x6.png)
+    ​![image](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/images/image-20240429194931-y8v92x6.png)
 4. 复制App ID和App Secret到Quicker
 
-    ​![image](assets/image-20240429195150-kyn6vt7.png)​
+    ​![image](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/images/image-20240429195150-kyn6vt7.png)​
 
 ‍
