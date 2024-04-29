@@ -12,7 +12,7 @@ isCJKLanguage: true
 
 1. 打开[SimpleTex账户注册](https://simpletex.net/user/register)并注册账户
 
-    ​![image](https://raw.githubusercontent.com/cesaryuan/hugo-blog2/main/images/image-20240429200428-xobsb4q.png)​
+    ​![image](assets/image-20240429200428-xobsb4q.png)​
 2. 进入[SimpleTex用户中心](https://simpletex.net/user/center)申请开通API开放平台
 
     ​![image](assets/image-20240429194845-65ac3df.png)​
